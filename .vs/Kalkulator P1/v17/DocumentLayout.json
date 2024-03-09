@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Pemrograman Sem 2\\Kalkulator P1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC773E0-F38D-4066-A9E4-A5E8BC0AA16E}|Kalkulator P1\\Kalkulator P1.csproj|c:\\pemrograman sem 2\\kalkulator p1\\kalkulator p1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FC773E0-F38D-4066-A9E4-A5E8BC0AA16E}|Kalkulator P1\\Kalkulator P1.csproj|solutionrelative:kalkulator p1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Pemrograman Sem 2\\Kalkulator P1\\Kalkulator P1\\Program.cs",
+              "RelativeDocumentMoniker": "Kalkulator P1\\Program.cs",
+              "ToolTip": "C:\\Pemrograman Sem 2\\Kalkulator P1\\Kalkulator P1\\Program.cs",
+              "RelativeToolTip": "Kalkulator P1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T12:04:45.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
